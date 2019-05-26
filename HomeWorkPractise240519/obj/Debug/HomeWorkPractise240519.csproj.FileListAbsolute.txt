@@ -1,0 +1,32 @@
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\bin\Debug\HomeWorkPractise240519.exe.config
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\bin\Debug\HomeWorkPractise240519.exe
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\bin\Debug\HomeWorkPractise240519.pdb
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\MainWindow.g.cs
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\App.g.cs
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519_MarkupCompile.cache
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519_MarkupCompile.lref
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\App.baml
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\MainWindow.baml
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.g.resources
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.Properties.Resources.resources
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.csproj.GenerateResource.cache
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.exe
+c:\users\джабашевн.corp\source\repos\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.pdb
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\bin\Debug\HomeWorkPractise240519.exe.config
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\bin\Debug\HomeWorkPractise240519.exe
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\bin\Debug\HomeWorkPractise240519.pdb
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.csprojAssemblyReference.cache
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\MainWindow.g.cs
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\App.g.cs
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519_MarkupCompile.cache
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519_MarkupCompile.lref
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\App.baml
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\MainWindow.baml
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.g.resources
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.Properties.Resources.resources
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.csproj.GenerateResource.cache
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.csproj.CoreCompileInputs.cache
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.exe
+C:\Users\invok\Downloads\repos (1) (1)\HomeWorkPractise240519\HomeWorkPractise240519\obj\Debug\HomeWorkPractise240519.pdb
